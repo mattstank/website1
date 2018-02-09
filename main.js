@@ -4,3 +4,6 @@ P {
 P {
  font-color:blue; 
 }
+P {
+ font-color:blue; 
+}
